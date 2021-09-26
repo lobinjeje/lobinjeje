@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 style="color: #0000;">hola</h1>
+<h1>hola</h1>
+
+<style>
+  
+  h1 {
+  
+    color: #ff0000;
+  
+  }
+  
+ </style>
