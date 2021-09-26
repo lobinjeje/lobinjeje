@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 style="color: red;">hola</h1>
+<h1 style="color: #fff;">hola</h1>
