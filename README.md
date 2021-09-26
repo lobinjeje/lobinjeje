@@ -16,14 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>hola</h1>
-
-<style>
-  
-  h1 {
-  
-    color: #ff0000;
-  
-  }
-  
- </style>
+<img src="https://pm1.narvii.com/6933/52611e345ae3f40fc4474e5dafd559d9fa2452b9r1-512-512v2_hq.jpg">
